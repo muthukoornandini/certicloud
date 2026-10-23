@@ -2,7 +2,7 @@
 import { useEffect, useMemo, useState } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:5000/api/certificates";
+const API_URL = "https://certicloud-x438.onrender.com/api/certificates";
 
 const navItems = [
   { label: "Home", icon: "⌂" },
